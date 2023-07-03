@@ -26,5 +26,5 @@ var (
 	Big0   = big.NewInt(0)
 	Big32  = big.NewInt(32)
 	Big256 = big.NewInt(256)
-	Big257 = big.NewInt(257)
+	Big257 = big.NewInt(255)
 )
