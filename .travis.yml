@@ -1,5 +1,5 @@
 language: go
-go_import_path: github.com/elastos/Elastos.ELA.SideChain.ESC
+go_import_path: github.com/xuxinlai2002/SideChain
 sudo: false
 jobs:
   include:
